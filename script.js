@@ -1,5 +1,5 @@
 let quotes = [
-        'The best thing about a boolean is even if you are wrong, you are only off by a bit. (Anonymous)',
+       'The best thing about a boolean is even if you are wrong, you are only off by a bit. (Anonymous)',
        'Without requirements or design, programming is the art of adding bugs to an empty text file. (Louis Srygley)',
        'Before software can be reusable it first has to be usable. (Ralph Johnson)',
        'The best method for accelerating a computer is the one that boosts it by 9.8 m/s2. (Anonymous)',
